@@ -1,7 +1,7 @@
 <h1 align="center" class="line-1 anim-typewriter"> Stripe UI Clone</h1>
 
 <div align="center">
-        <img align="center" src="./.github/" alt="Imagem do projeto" width="57%"> 
+        <img align="center" src="./.github/stripe.gif" alt="Imagem do projeto" width="57%"> 
         
 </div>
 
@@ -16,6 +16,16 @@
 
 <br/>
 <br/>
+
+
+
+<h2 id="challenge"  align="center">⚡ The challenge </h2>
+
+<div align="center">
+        <p> Complex navigation menu, using animations with Framer Motion, and Reactjs features such as hooks (useContext, useEffect...), styled components, etc. </p>
+</div>
+
+
 
 <br/><br/>
 
@@ -50,21 +60,19 @@
 1. <b>Clone the project</b>
 
 ```bash
-  $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
+  $ git clone https://github.com/gabriel-durr/stripe-menu-ui-clone.git && cd stripe-menu-uid-clone
 ```
 
 2. <b>Install dependencies</b>
 
 ```bash
-  $ expo install
-  $ yarn or npm i
+  $ yarn 
 ```
 
 3. <b>Start the application</b>
 
 ```bash
-  $ expo start
-  $ yarn dev or npm run dev
+  $ yarn dev 
 ```
 
 </div>
