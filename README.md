@@ -22,7 +22,7 @@
 <h2 id="challenge"  align="center">⚡ The challenge </h2>
 
 <div align="center">
-        <p> Complex navigation menu, using animations with Framer Motion, and Reactjs features such as hooks (useContext, useEffect...), styled components, etc. </p>
+        <p> Complex navigation menu, using animations with Framer Motion, and Reactjs features such as hooks (useContext, useCallback ...), styled components, etc. </p>
 </div>
 
 
